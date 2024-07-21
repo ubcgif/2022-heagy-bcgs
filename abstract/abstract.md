@@ -6,8 +6,6 @@ abstract: |
  Although geophysics has an important role to play in mitigating climate change and its impacts, we are at risk of continuing to be a “field in decline.” Geosciences as a whole have a severe diversity problem, and with the strong association of geophysics with hydrocarbons deterring many students, we are missing out on the talents and ideas of many. In this talk, I look forward to opening up what I hope will be continuing discussions about growing our community and broadening the scientific and societal contributions we can make. 
 ---
 
-![thumbnail](thumbnail.png)
-
 :::{iframe} https://www.youtube.com/watch?v=B6ZaiwcUaFA
 :width: 100%
 :::
