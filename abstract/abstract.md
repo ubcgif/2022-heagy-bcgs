@@ -8,5 +8,6 @@ abstract: |
 
 ![thumbnail](thumbnail.png)
 
-[YouTube Video](https://www.youtube.com/watch?v=B6ZaiwcUaFA)
-
+:::{iframe} https://www.youtube.com/watch?v=B6ZaiwcUaFA
+:width: 100%
+:::
