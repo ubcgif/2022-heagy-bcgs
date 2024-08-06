@@ -36,9 +36,9 @@ site:
   template: article-theme
   actions:
     - title: poster
-      url: abstract/presentation/geophysics-in-a-changing-climate-eposter.pdf
+      url: presentation/geophysics-in-a-changing-climate-eposter.pdf
       static: true
     - title: slides
-      url: abstract/presentation/geophysics-in-a-changing-climate.pdf
+      url: presentation/geophysics-in-a-changing-climate.pdf
       static: true
   # domains: []
