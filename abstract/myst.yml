@@ -2,7 +2,7 @@ version: 1
 project:
   id: ubcgif-2022-heagy-bcgs
   title: Geophysics in a changing climate
-  description: Talk presented in KEGS Roundup Breakfast 2022 session
+  description: Talk presented in BCGS Roundup Breakfast in 2022
   authors:
     - name: Lindsey J. Heagy
       email: lheagy@eoas.ubc.ca
